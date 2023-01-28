@@ -1,0 +1,30 @@
+MSN,Description,Unit
+BDFDB,Biomass inputs (feedstock) to the production of biodiesel,Billion Btu
+BDPRP,Biodiesel production,Thousand barrels
+BFFDB,Biomass inputs (feedstock) to the production of biofuels,Billion Btu
+BFPRP,Biofuels production,Thousand barrels
+CLPRB,Coal production,Billion Btu
+CLPRK,Factor for converting coal production from physical units to Btu,Million Btu per short ton
+CLPRP,Coal production,Thousand short tons
+COPRK,Factor for converting crude oil production from physical units to Btu,Million Btu per barrel
+EMFDB,Biomass inputs (feedstock) to the production of fuel ethanol,Billion Btu
+ENPRP,"Fuel ethanol production, including denaturant",Thousand barrels
+GETCB,Geothermal energy total consumption,Billion Btu
+HYTCB,Hydropower total consumption,Billion Btu
+NCPRB,Noncombustible renewable energy production,Billion Btu
+NGMPB,Natural gas marketed production,Billion Btu
+NGMPK,Conversion factor for natural gas marketed production,Thousand Btu per cubic feet
+NGMPP,Natural gas marketed production,Million cubic feet
+NUETB,"Nuclear energy consumed for electricity generation, total",Billion Btu
+PAPRB,Crude oil production (including lease condensate),Billion Btu
+PAPRP,Crude oil production (including lease condensate),Thousand barrels
+REPRB,Renewable energy production,Billion Btu
+SOTCB,Solar energy total consumption,Billion Btu
+TEPRB,Total primary energy production,Billion Btu
+TETCB,Total energy consumption,Billion Btu
+WDEXB,Densified biomass exports,Billion Btu
+WDPRB,Wood energy production,Billion Btu
+WDTCB,Wood energy total consumption,Billion Btu
+WSTCB,Waste energy total consumption,Billion Btu
+WWPRB,Wood and waste energy production,Billion Btu
+WYTCB,Wind energy total consumption,Billion Btu
