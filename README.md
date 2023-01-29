@@ -12,6 +12,8 @@ The data that we are using are 30 different natural resource-related values,
 which are attributed to each state and year.
 We must train a regression model with this data to predict the statewide investments.
 
+In the GPR_Analysis we have results from attempting to use GPR.
+
 In the Presentation_Notebook we have most of the code we used to reach the very unfortunate conclusion that the very naive benchmark of taking themean of each states' Assistances from the past five years performed the best.
 
-In the GPR_Analysis we have results from attempting to use GPR.
+The RMSE of our best benchmark was 24183417.
